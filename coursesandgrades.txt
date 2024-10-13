@@ -1,0 +1,10 @@
+IC6034,Muhammad,Numair,math, B,
+IC3544,Rabia,Malik,q,A
+IC3544-t-t,Rabia,Malik,t,q
+IC3544-e-e,Rabia,Malik,e,w
+IC3544-math-math,Rabia,Malik,math,A
+IC3544-it-it,Rabia,Malik,math,
+IC6671,faizan,m,math,a
+IC6671-math,faizan,m,math,a
+IC6671- it,faizan,m, it,b
+IC6671- english,faizan,m, english,
